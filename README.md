@@ -12,7 +12,7 @@ Se ha realizado un programa en processing que crear un reproductor de música qu
 ## Descripción
 Se ha programado en processing 
 
-![office](/office.gif "Oficina")
+![musicPlayer](/musicPlayer.gif.gif "Música")
 
 ## Controles de la vista e iluminación
 
