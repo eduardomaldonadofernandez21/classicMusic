@@ -10,7 +10,7 @@ Autor: Eduardo Maldonado Fernández
 Se ha realizado un programa en processing que crear un reproductor de música que emite música clásica.
 
 ## Descripción
-Se ha programado en processing un mini reproductor de música que se puede observar el volumen, se le puede añadir o quitar volumen, así como observar su amplitud
+Se ha programado en processing un mini reproductor de música que se puede observar el volumen, se le puede añadir o quitar volumen, así como observar su amplitud tanto por el canal derecho del audio como en el izquierdo.
 
 ![musicPlayer](/musicPlayer.gif "Música")
 
@@ -27,6 +27,6 @@ Se ha añadido una serie de funciones para poder tener unos distintos puntos de 
 
 
 ## Descarga e instalación
-Para poder probar este programa es necesario descargar toda la carpeta , así como descarga la carpeta de data con todos sus fichero .obj así como sus texturas.
+Para poder probar este programa es necesario descargar toda la carpeta musicPlayer.
 
 
